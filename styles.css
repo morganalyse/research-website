@@ -1,8 +1,9 @@
 body{
-background-color: gray;
+background-color: lavender;
 }
 header{
   text-align: center;
+  color: turquoise;
 }
 
 header{
@@ -10,15 +11,28 @@ header{
   font-size:24px
 }
 h2{
-font-family: 'Chilanka', cursive,serif;
-color: lavender;
-font-size: 30px;
-font-style: slab;
+font-family: 'Amatic SC', cursive;
+color: turquoise;
 }
-
-
-
-
+h1{
+  color: turquoise;
+font-size: 30px;
+font-family: 'Handlee', cursive;
+}
 .motorola{
   height: 250px;
+}
+.nokiaone{
+  height: 250px;
+}
+.nokiatwo{
+  height: 250px;
+}
+
+.nokiathree{
+  height:150px;
+}
+
+.iphoneone{
+  height:200px;
 }
