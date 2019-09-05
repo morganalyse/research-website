@@ -1,23 +1,34 @@
 body{
-background-color: lavender;
+background-color: #CECEF6;
 }
 header{
   text-align: center;
-  color: turquoise;
+  color: #FA58AC;
 }
 
 header{
-  family;font-style: arial;
-  font-size:24px
+font-family: 'Indie Flower', cursive;
+  font-size: 16px
+
 }
 h2{
-font-family: 'Amatic SC', cursive;
-color: turquoise;
+font-family: 'Indie Flower', cursive;
+color: #FA58AC;
+font-size: 40px
 }
 h1{
-  color: turquoise;
-font-size: 30px;
-font-family: 'Handlee', cursive;
+  color: #FA58AC;
+font-family: 'Indie Flower', cursive;
+font-size: 50px;
+margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 400px;
+    margin-inline-end: 400px;
+    font-weight: bold;
+}
+header{
+  height:150px;
+  background-color: #29088A;
 }
 .motorola{
   height: 250px;
@@ -30,9 +41,17 @@ font-family: 'Handlee', cursive;
 }
 
 .nokiathree{
-  height:150px;
+  height:250px;
 }
 
 .iphoneone{
   height:200px;
+}
+
+.cellphones{
+  text-align: left;
+  image-orientation: center;
+}
+.header{
+  text-align: center;
 }
